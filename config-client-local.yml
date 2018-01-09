@@ -1,6 +1,0 @@
-info:
-  version: 1.0
-  profile: default
-config:
-  eureka:
-    host: 127.0.0.1

@@ -5,4 +5,4 @@ config:
   eureka:
     host: 127.0.0.1
   mock:
-    imageurl: http://localhost/mock.jpg
+    imageurl: http://localhost/mock1.jpg

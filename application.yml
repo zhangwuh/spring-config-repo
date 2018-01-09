@@ -4,7 +4,5 @@ info:
 config:
   eureka:
     host: 127.0.0.1
-
-config:
   mock:
     imageurl: http://locahost/mock.jpg
